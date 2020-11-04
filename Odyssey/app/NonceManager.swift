@@ -10,7 +10,7 @@ import Foundation
 
 class NonceManager: TextButtonDelegate {
     public static let shared = NonceManager()
-    let defaultGenerator = "0xbd34a880be0b53f3"
+    let defaultGenerator = "0x1111111111111111"
     
     init() {
         if UserDefaults.standard.string(forKey: "generator") == nil {
