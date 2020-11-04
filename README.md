@@ -11,21 +11,13 @@ Thắc mắc về cách thức hoạt động và phương thúc mod lại thì 
 
 Mã nguồn chính LiRa đã được chuyển giao cho một thành viên hộ trợ tôi trong quá trình phát triển LiRa
 
-
-# Odyssey
-
-This is the project for the Odyssey jailbreak.
-
-RIP s0uthwes :(
-
-This project is being developed and open sourced in his memory, as he was interested in seeing it happen.
-
-# Supported Devices
+# Hộ thiết bị
 
 All A9-A13 devices on iOS 13.0-13.5
 
 # Status
 
+* Package Manager: Zebra
 * Exploit: Re-implementation of lightspeed (Working)
 * Privilege Escalation (to root): Working 
 * Nonce Setter: Working 
@@ -36,9 +28,3 @@ All A9-A13 devices on iOS 13.0-13.5
 * Code Injection: Working
 * Injection Library: libhooker
 * Bootstrap: Procursus included
-
-# License
-
-Odyssey is licensed under the 3-Clause BSD License
-
-Note: should you choose to include time_waste, you must license the project as GPL. If you choose to only use tardy0n, you may license it as BSD-3.
