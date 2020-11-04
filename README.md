@@ -15,7 +15,7 @@ Mã nguồn chính LiRa đã được chuyển giao cho một thành viên hộ 
 
 All A9-A13 devices on iOS 13.0-13.5
 
-# Status
+# Trạng thái
 
 * Package Manager: Zebra
 * Exploit: Re-implementation of lightspeed (Working)
