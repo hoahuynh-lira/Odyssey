@@ -1,8 +1,13 @@
 # Cách Buil app
 Yêu Cầu Xcode 11 (Xcode 12 bị lỗi).
+
 Ae cần có kiến thức về Swift...
-Đây là một phần trong dự án LiRa (Mã nguồn chính LiRa không được công khai)...Ae có thể nghiêm cứu và chỉnh sửa lại.
-thắc mắc về chác thức hoạt động và phương thúc mod lại thì liên hệ twitter: <a href="https://twitter.com/hoa_huynh19">Hòa Huỳnh</a>
+
+Đây là một phần trong dự án LiRa (Mã nguồn chính LiRa không được công khai)...
+
+Ae có thể nghiêm cứu và chỉnh sửa lại.
+
+Thắc mắc về cách thức hoạt động và phương thúc mod lại thì liên hệ twitter: <a href="https://twitter.com/hoa_huynh19">Hòa Huỳnh</a>
 
 
 # Odyssey
