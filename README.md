@@ -11,7 +11,7 @@ Thắc mắc về cách thức hoạt động và phương thúc mod lại thì 
 
 Mã nguồn chính LiRa đã được chuyển giao cho một thành viên hộ trợ tôi trong quá trình phát triển LiRa
 
-# Hộ thiết bị
+# Hộ trợ thiết bị
 
 All A9-A13 devices on iOS 13.0-13.5
 
