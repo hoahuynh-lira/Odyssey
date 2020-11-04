@@ -1,3 +1,9 @@
+# Cách Buil app
+Yêu Cầu Xcode 11 (Xcode 12 bị lỗi)
+Ae cần có kiến thức về Swift...
+Đây là một phần trong dự án LiRa (Mã nguồn chính LiRa không được công khai)...Ae có thể nghiêm cứu
+
+
 # Odyssey
 
 This is the project for the Odyssey jailbreak.
