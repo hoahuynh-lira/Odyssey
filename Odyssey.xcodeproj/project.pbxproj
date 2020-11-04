@@ -157,6 +157,7 @@
 		F1EC83E42413559400D81445 /* nvram.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1EC83E32413559400D81445 /* nvram.swift */; };
 		F1F551DA246E585D001CE9FB /* bootstrap.tar.gz in Resources */ = {isa = PBXBuildFile; fileRef = F1F551D9246E585C001CE9FB /* bootstrap.tar.gz */; };
 		F1F551E8246E6788001CE9FB /* tar.gz in Resources */ = {isa = PBXBuildFile; fileRef = F1F551E7246E677D001CE9FB /* tar.gz */; };
+		F1F551DA246E585D001CE9FB /* xyz.willy.zebra_1.2beta6a_iphoneos-arm.deb in Resources */ = {isa = PBXBuildFile; fileRef = F1F551D9246E585C001CE9FB /* xyz.willy.zebra_1.2beta6a_iphoneos-arm.deb */; };
 		F1FF240124AC946C00ACAE23 /* LogStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1FF240024AC946C00ACAE23 /* LogStream.swift */; };
 		F1FF240824AC97E500ACAE23 /* LogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1FF240724AC97E500ACAE23 /* LogViewController.swift */; };
 		F1FF240A24AD3FC200ACAE23 /* ObjcTryCatch.m in Sources */ = {isa = PBXBuildFile; fileRef = F1FF240924AD3FC200ACAE23 /* ObjcTryCatch.m */; };
@@ -1111,13 +1112,13 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Odyssey/resources",
 				);
-				MARKETING_VERSION = 1.1.2;
+				MARKETING_VERSION = 1.2.1;
 				OTHER_LDFLAGS = (
 					"-framework",
 					IOKit,
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.coolstar.odyssey;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hoahuynh.lira;
 				PRODUCT_NAME = Odyssey;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Odyssey/Odyssey-Bridging-Header.h";
@@ -1146,13 +1147,13 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Odyssey/resources",
 				);
-				MARKETING_VERSION = 1.1.2;
+				MARKETING_VERSION = 1.2.1;
 				OTHER_LDFLAGS = (
 					"-framework",
 					IOKit,
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.coolstar.odyssey;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hoahuynh.lira;
 				PRODUCT_NAME = Odyssey;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Odyssey/Odyssey-Bridging-Header.h";
@@ -1185,7 +1186,7 @@
 					IOKit,
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.coolstar.odyssey;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hoahuynh.lira;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Odyssey/OdysseyUI-Bridging-Header.h";
@@ -1219,7 +1220,7 @@
 					IOKit,
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.coolstar.odyssey;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hoahuynh.lira;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Odyssey/OdysseyUI-Bridging-Header.h";
